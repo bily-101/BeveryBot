@@ -1,2 +1,2 @@
 # BeveryBot
-This is a python bot
+This is a java bot
