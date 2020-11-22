@@ -6,3 +6,4 @@ public class Bot {
         JDA jda = new JDABuilder("NzYwODg5NjI3Nzk1MTI4MzUy.X3Snrw.fyIUC5uUNgZUQrnzM4Ak_aMdnBg").build();
     }
 }
+//push
